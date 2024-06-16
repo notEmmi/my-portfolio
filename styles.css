@@ -1,0 +1,56 @@
+/* Basic reset to remove default margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Style for the header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style for the main content */
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for paragraphs */
+p {
+    margin-bottom: 20px;
+}
+
+/* Style for the list */
+ul {
+    list-style-type: none;
+}
+
+/* Style for list items */
+li {
+    margin-bottom: 10px;
+}
+
+/* Style for links */
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #007BFF;
+}
