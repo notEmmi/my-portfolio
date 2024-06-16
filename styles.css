@@ -10,12 +10,11 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #ffebeb;
 }
 
 /* Style for the header */
 header {
-    background-color: #333;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -23,7 +22,6 @@ header {
 
 /* Style for the main content */
 main {
-    background-color: #ffebeb;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
